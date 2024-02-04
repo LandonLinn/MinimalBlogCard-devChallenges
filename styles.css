@@ -1,0 +1,78 @@
+.page-container{
+    display: flex;
+    justify-content: center;
+}
+
+#display-card{
+    width: 368px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 10px 3px 20px #20293a1d;
+    margin-top: 164px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    padding: 16px 16px 20px 16px;
+    margin: 0px;
+}
+
+.display-img{
+    width: 336px;
+    height: 152px;
+    border-radius: 10px;
+}
+
+.tag, .title, .body-text, .name-text {
+    font-family: 'Sora', sans-serif;
+}
+
+.tag{
+    font-size: .625rem;
+    font-weight: 700;
+    width: fit-content;
+    padding: 6px 16px 6px 16px;
+    margin: 16px 0px 16px 0px;
+    background-color: #E6D6FC;
+    color: #883AE1;
+    border-radius: 50px;
+}
+
+.title{
+    font-size: 1.125rem;
+    margin: 0px;
+    margin-bottom: 6px;
+    padding: 0px;
+}
+
+.body-text{
+    margin: 0px;
+    font-size: .875rem;
+}
+
+.seperate{
+    border: .5px solid #E5EAF0;
+    margin: 0px;
+    padding: 0px;
+}
+
+.name-text{
+    margin: 20px 0px 0px 0px;
+    font-size: .75rem;
+}
+
+.content-footer{
+    padding: 0px 16px 20px 16px;
+}
+
+.name-text, .body-text{
+    color: #6C727F;
+}
+
+
