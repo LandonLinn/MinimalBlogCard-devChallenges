@@ -17,7 +17,7 @@
 
 ## Screenshot of Challenge
 
-![Screenshot of Challenge Thumbnail](assets/ChallengeThumbnail.jpg)
+![Screenshot of Challenge Thumbnail](/Assets/ChallengeThumbnail.jpg)
 
 ---
 
@@ -30,16 +30,6 @@
 ## About the Project
 
 This project is my first challenge submission on GitHub, inspired by the Beginner level challenge from devChallenges.io. I am excited to improve my skills with each project and welcome any feedback or suggestions for enhancement.
-
-## Live Preview
-
-[Preview](https://landonlinn.github.io/TodoApp/)
-
----
-
-## About the Project
-
-This project showcases my ability to create a functional and interactive to-do list application using HTML, CSS, and JavaScript. Designed to strengthen my foundational web development skills, it allows users to add, edit, delete, and complete tasks. Dynamic task rendering, implemented via JavaScript and the DOM, ensures seamless interaction, while a clean, minimalist CSS design enhances usability.
 
 ---
 
