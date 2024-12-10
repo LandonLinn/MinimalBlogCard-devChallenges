@@ -4,7 +4,7 @@
 }
 
 #display-card{
-    width: 368px;
+    max-width: 368px;
     height: auto;
     border-radius: 10px;
     box-shadow: 10px 3px 20px #20293a1d;
@@ -24,8 +24,9 @@
 }
 
 .display-img{
-    width: 336px;
-    height: 152px;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
     border-radius: 10px;
 }
 
@@ -76,3 +77,8 @@
 }
 
 
+@media screen and (max-width: 375px){
+    #display-card{
+        width: 90%;
+    }
+}
