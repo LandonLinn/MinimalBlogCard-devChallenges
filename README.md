@@ -1,6 +1,6 @@
 # Minimal Blog Card
 
-> I created a Beginner level challenge from [devChallenges.com]([https://devchallenges.io/challenges-dashboard](https://devchallenges.io/challenge/minimal-blog-card). The Minimal Blog Card is a simple web component created using HTML and CSS. The challenge involved replicating a provided image while treating the task as if I were implementing a designer's work.
+> I created a Beginner level challenge from [devChallenges.com](https://devchallenges.io/challenge/minimal-blog-card). The Minimal Blog Card is a simple web component created using HTML and CSS. The challenge involved replicating a provided image while treating the task as if I were implementing a designer's work.
 
 ## Table of Contents
 
